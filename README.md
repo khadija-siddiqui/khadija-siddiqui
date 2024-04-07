@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Khadija Siddiqui</h1>
-<h3 align="center">A passionate fullstack developer majoring in Computer Science at Barnard College with a concentration in AI.</h3>
+<h3 align="center">A passionate fullstack developer majoring in Computer Science at Barnard College with a focus in AI.</h3>
 
 - 🔭 I’m currently working on developing my [Personal Website](https://github.com/khadija-siddiqui/khadija-siddiqui.github.io)
 
