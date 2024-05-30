@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khadija Siddiqui</h1>
 <h3 align="center">A passionate fullstack developer majoring in Computer Science at Barnard College.</h3>
 
--  🤖 I'm currently a Research Assistant at The Accessible and Accelerated Robotics Lab (A²R Lab) 
+-  🤖 I'm currently a Research Assistant at The Accessible and Accelerated Robotics Lab [(A²R Lab)](https://a2r-lab.org/ )
 -  🔭 Developing my [Personal Website](https://github.com/khadija-siddiqui/khadija-siddiqui.github.io)  
 
 <h3 align="left">Connect with me:</h3>
